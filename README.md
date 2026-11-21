@@ -12,8 +12,9 @@ A Java Swing desktop application that analyses an actor's film career and produc
 - Input validation for empty or unknown actor names
 
 ## Screenshots
-![Home screen](‎screenshots/Screenshot 2026-11-21 215055.png)
-![Results screen](‎screenshots/Screenshot 2026-11-21 215055.png)
+<img src="screenshots/Screenshot%202026-11-21%20215055.png" alt="Home screen" width="700">
+
+<img src="screenshots/Screenshot%202026-11-21%20215200.png" alt="Results screen" width="700">
 
 ## Tech Stack
 Java, Java Swing, Apache NetBeans, Maven
